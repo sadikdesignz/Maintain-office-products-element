@@ -1,0 +1,4 @@
+This is a idea for maintain office product element.
+
+Many comapany use app to maintain product in and out from their office . 
+They collect list how many products they make and how many product they buy or they send the customer .
